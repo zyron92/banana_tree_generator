@@ -10,6 +10,7 @@ A Simple Banana Tree Generator
 ##
 ### Descriptions
 - Refer to [this page](http://images.math.cnrs.fr/De-beaux-entrelacs.html?lang=fr) for more information
+- To compile, gnatmake main.adb
 
 ##
 There are still bugs to be resolved, and improvements to be done.
